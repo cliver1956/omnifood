@@ -290,7 +290,8 @@ header {
     left: 0;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.911);
-    box-shadow: 0 2px 2px #ddd;
+    -webkit-box-shadow: 0 2px 2px #ddd;
+            box-shadow: 0 2px 2px #ddd;
     z-index: 9999;
 }
 
