@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -373,7 +372,7 @@
                         <select name="find-us" id="find-us">
                             <option value="friends" selected>Friends</option>
                             <option value="search">Search Engine</option>
-                            <option value="ad">Advrtisment</option>
+                            <option value="ad">Advertisment</option>
                             <option value="other">Other</option>
                         </select>
                     </div>
@@ -443,5 +442,3 @@
 </body>
 
 </html>
-
-?>
