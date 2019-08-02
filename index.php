@@ -331,12 +331,12 @@
         </div>
     </section>
 
-    <section class="section-form" id="form">
+    <section class="section-form">
         <div class="row">
             <h2>We're happy to hear from you</h2>
         </div>
         <div class="row">
-            <form action="mailer.php" method="post" class="contact-form">
+            <form action="mailer.php" method="post" class="contact-form" id="form">
                 <div class="row">
                     <?php 
                         if(S_GET['success'] == 1) {
